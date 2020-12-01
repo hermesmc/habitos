@@ -11,5 +11,5 @@ Attainable: alcançável<br>
 Revelent: relevante<br>
 Time-related: tempo<br>
 
-O que é Procrastinação?<br>
-É o adiamento, a demora, o atraso em realizar determinada atividade.
+O que é Procrastinação?
+- É o adiamento, a demora, o atraso em realizar determinada atividade.
