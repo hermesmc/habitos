@@ -5,10 +5,10 @@ Hábitos: da produtividade as metas pessoais
 ## Como as nossas metas devem ser:
 
 SMART:<br>
-Specific: específica<br>
-Mensurable: mensurável<br>
-Attainable: alcançável<br>
-Revelent: relevante<br>
+Specific    : específica<br>
+Mensurable  : mensurável<br>
+Attainable  : alcançável<br>
+Revelent    : relevante<br>
 Time-related: tempo<br>
 
 O que é Procrastinação?
