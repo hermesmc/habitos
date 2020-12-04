@@ -14,9 +14,9 @@ Attainable  : a meta dev ser alcançaveis;<br>
 Revelent    : a meta deve ter um objetivo, ou seja o porquê de se fazer isso;<br>
 Time-related: é ncessário que exita uma referência de tempo.<br>
 
-O que é Procrastinação?
-- É o adiamento, a demora, o atraso em realizar determinada atividade.
-
 Metas muito fáceis não devem ser colocadas pois pode te desestimular com o tempo.
 
-O objetivo deve ser dividido em metas específicas, mensuráveis, que sejam atingíveis, relevantes e com tempo determinado. 
+Então: O objetivo deve ser dividido em metas eSpecíficas, Mensuráveis, que sejam Atingíveis, Relevantes e com Tempo determinado. 
+
+O que é Procrastinação?
+- É o adiamento, a demora, o atraso em realizar determinada atividade.
