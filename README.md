@@ -19,7 +19,7 @@ Metas muito fáceis não devem ser colocadas pois pode te desestimular com o tem
 Então: O objetivo deve ser dividido em metas eSpecíficas, Mensuráveis, que sejam Atingíveis, Relevantes e com Tempo determinado. 
 
 O que é Procrastinação?
-- É o adiamento, a demora, o atraso em realizar determinada atividade.
+- É o adiamento, a demora, o atraso em realizar determinada atividade. Normalmente em decorrência da falta de planejamento.
 
 ### Elimine a mentalidade perfeccionista: 
 Entregar trabalhos perfeitos não é ruim, o problema está no tempo gasto para isso. As vezes temos soluções mais simples para o mesmo problema, e isso economiza tempo e esforço.
