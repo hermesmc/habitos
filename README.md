@@ -31,3 +31,25 @@ No dia a dia podem acontecer coisas que nos impedem de trabalhar de forma plena 
 
 Uma boa estratégia quando queremos evitar a procrastinação é anotar o que devemos fazer de forma organizada, com detalhamento necessário para realização dessa tarefa e em ordem de priorização. Para fazer as anotações temos diversas ferramentas, sendo uma delas o <a href="https://evernote.com">Evernote</a>. Quando há choque entre mais de uma tarefa para ser entregue no mesmo período, podemos solicitar ao chefe imediato a ordem que ele precisa pra essa entrega ou escolher a tarefa mais dificil para fazer primeiro(Eu não concordo com essa priorização, quando você faz o mais dificil primeiro e não consegue entregar, gera uma frustração e, talvez, se tivesse começado pelas mais fáceis você teria entregado alguma coisa). 
 Outro motivo, além da desorganização, que pode levar a procrastinação é o pensamento destrutivo. Aquele pensamento de que não vai dar certo, que não vai dar tempo e isso pode levar a pessoa a desistir. Mas temos de nos lembrar que se outras pessoas conseguem então porquê não conseguirei? E esse pensamento pode surgir pela quantidade de tarefas a serem entregues. Vemos aí a importância da priorização.
+
+Sobre cada meta criada, reflita:
+
+- Qual foi o estimulo?
+- O que você fez?
+- O que você ganhou?
+
+Alternativas de recompensas:
+Esportes;
+Jogos;
+Comida;
+Coisas que podem lhe dar prazer.
+
+### Estilo de vida
+
+Quais são os nossos hábitos e nossa forma de viver. Refleta sobre as seguintes questões:
+
+- Você está satisfeito com ele?
+- O que você gostaria de melhorar?
+- Como pretende fazer isso?
+
+
