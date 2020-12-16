@@ -57,10 +57,9 @@ Organize seu espaço
 
 Trello - ferramenta de equipes para organização de trabalhos
 
-### A técnica Pomodoro consiste em incluir pausas entre períodos de tempo. Estes períodos podem ser definidos conforme a tarefa que está sendo executada.
-  Pode contribuir para: 
-	- Aumentar a concentração;
-	- Aumentar a produtividade;
-	- Diminuir interrupções;
-	- Aprender a estimar melhor o tempo das tarefas;
-	- Alivio da ansiedade.
+### A técnica Pomodoro consiste em incluir pausas entre períodos de tempo. Estes períodos podem ser definidos conforme a tarefa que está sendo executada. Pode contribuir para: 
+- Aumentar a concentração;
+- Aumentar a produtividade;
+- Diminuir interrupções;
+- Aprender a estimar melhor o tempo das tarefas;
+- Alivio da ansiedade.
