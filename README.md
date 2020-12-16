@@ -53,7 +53,7 @@ Quais são os nossos hábitos e nossa forma de viver. Refleta sobre as seguintes
 - Como pretende fazer isso?
 
 Organize seu espaço
-- Organizado não significa apenas arrumado.
+- Organizado não significa apenas arrumado. Não adianta arrumar suas coisas sem que você saiba onde encontrá-las. A idéia é ter só o que precisa e mantê-las organizadas de forma que possa encontrá-las rapidamente quando precisa. Perde-se muito tempo procurando objetos perdidos, tempo que poderia se utilizado para realização das tarefas.
 
 Trello - ferramenta de equipes para organização de trabalhos
 
