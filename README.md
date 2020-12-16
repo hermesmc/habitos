@@ -52,4 +52,15 @@ Quais são os nossos hábitos e nossa forma de viver. Refleta sobre as seguintes
 - O que você gostaria de melhorar?
 - Como pretende fazer isso?
 
+Organize seu espaço
+- Organizado não significa apenas arrumado.
 
+Trello - ferramenta de equipes para organização de trabalhos
+
+### A técnica Pomodoro consiste em incluir pausas entre periodos de tempo.
+  Pode contribuir para: 
+	- Aumentar a concentração;
+	- Aumentar a produtividade;
+	- Diminuir interrupções;
+	- Aprender a estimar melhor o tempo das tarefas;
+	- Alivio da ansiedade.
