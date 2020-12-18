@@ -63,3 +63,15 @@ Trello - ferramenta de equipes para organização de trabalhos
 - Diminuir interrupções;
 - Aprender a estimar melhor o tempo das tarefas;
 - Alivio da ansiedade.
+
+## A sua mente foi criada para ter idéias e para armazená-las.
+
+### GTD - Getting Things Done
+
+A arte de fazer acontecer (David Allen)
+5 passos:
+Listar - capture tudo que lhe chame a atenção
+Processar - decida exatamente o que aquilo significa
+Organizar - organize os resultados no logar certo
+Revisão - revise sempre para dar conta de tudo
+Execução - faça tudo o que precisa - e quer - fazer
