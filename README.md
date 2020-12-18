@@ -64,6 +64,8 @@ Trello - ferramenta de equipes para organização de trabalhos
 - Aprender a estimar melhor o tempo das tarefas;
 - Alivio da ansiedade.
 
+Ela consite em você elencar uma tarefa que julgue prioritária. Estabeleça o tempo de 25 minutos para trabalhar nessa tarefa, SEM INTERRUPÇÕES. Ao fim deste período, faça uma breve pauda de 5 minutos. Vá tomar um café, meditar, fazer qualquer outra coisa não relacionada a tarefa que está desempenhando. Ao fim do intervalo, estabeleça outro período de 25 minutos, seja para continuar na tarefa anterior, caso não tenha terminado, ou para iniciar outra tarefa. A cada 4 pomodoros faça um intervalo maior.
+
 ## A sua mente foi criada para ter idéias e não para armazená-las.
 
 ### GTD - Getting Things Done
