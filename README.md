@@ -64,7 +64,7 @@ Trello - ferramenta de equipes para organização de trabalhos
 - Aprender a estimar melhor o tempo das tarefas;
 - Alivio da ansiedade.
 
-## A sua mente foi criada para ter idéias e para armazená-las.
+## A sua mente foi criada para ter idéias e não para armazená-las.
 
 ### GTD - Getting Things Done
 
